@@ -104,8 +104,6 @@ pip install rich
 pip install -r requirements.txt
 ```
 
----
-
 ### 4️⃣ Running the Project
 
 #### 🧼 Basic CLI Version
