@@ -12,6 +12,7 @@ It is created as a learning and academic project to understand how classical tra
 ```bash
 rail-fence-cipher-python/
 │
+├── assets/           # Screenshots
 ├── app.py            # Basic CLI Version
 ├── interactive.py    # Rich-powered CLI
 ├── requirements.txt  # Dependencies
@@ -182,7 +183,7 @@ The Rail Fence Cipher is historically significant but cryptographically insecure
 
 ## 📸 Preview
 
-![Rich CLI Preview](assets/screenshot.png)
+![Rich CLI Preview](assets/Rail_Fence.png)
 
 ---
 
